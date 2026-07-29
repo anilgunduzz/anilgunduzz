@@ -30,7 +30,7 @@ graph LR
 
 ### 📫 How to reach me
 
-- LinkedIn: linkedin.com/in/anilgunduzz
+- LinkedIn: [linkedin.com/in/anilgunduzz](https://linkedin.com/in/anilgunduzz)
 - Email: anilgunduz@outlook.com
 
 <!--
