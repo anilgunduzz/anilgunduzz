@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anıl
 
-### IT Systems Specialist → Cloud Engineering | Infra tinkerer | Self-hosting enthusiast
+### IT Systems Expert → Cloud Engineering | Infra tinkerer | Self-hosting enthusiast
 
 - 🔭 I work in IT systems & infrastructure support, and I'm working towards a **Cloud Engineering** career path
 - 🌱 Currently deepening my skills in **Azure, on-prem & cloud virtualization, PowerShell & Terraform**
